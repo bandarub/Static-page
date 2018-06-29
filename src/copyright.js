@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import uparrow from './assets/up-arrow.png'
+import uparrow from './assets/up-arrow.png';
+
 const Copyright = ()=>{
     return <div className="copyright-container">
                 <p>COPYRIGHT©2003-2012VINSENT.INC. ALL RIGHTS RESERVED</p>
